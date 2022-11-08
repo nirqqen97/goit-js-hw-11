@@ -4,6 +4,8 @@ import { createMarkUp } from "./js/makeMarkUp";
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import SimpleLightbox from "simplelightbox";
 import 'simplelightbox/dist/simple-lightbox.min.css';
+import './css/styles.css';
+
 
 // const smth = document.querySelector('.qwe')
 // smth.addEventListener('click', clickCH);
