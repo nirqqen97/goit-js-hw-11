@@ -19,15 +19,5 @@ export function createMarkUp(array) {
         </p>
       </div>
       </div>`
-      ).join('')
-     
-
-
-
-    
-} 
-
-
-
-
-// {webformatURL, largeImageURL, tags, likes, views, comments, downloads
+      ).join('')   
+}
